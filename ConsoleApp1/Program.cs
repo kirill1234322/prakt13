@@ -15,9 +15,9 @@ namespace ConsoleApp1
             int vvod=int.Parse(Console.ReadLine());
 
 
-            if (vvod == 2)
+            if (vvod == 1)
             {
-                b = int.Parse(Console.ReadLine());
+                a = int.Parse(Console.ReadLine());
             }
 
 
