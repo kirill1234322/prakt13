@@ -14,7 +14,10 @@ namespace ConsoleApp1
             int a=0,b=0;
             int vvod=int.Parse(Console.ReadLine());
 
-
+            if(vvod==5)
+            {
+                Console.WriteLine(a*b);
+            }
 
 
 
