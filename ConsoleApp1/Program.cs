@@ -16,6 +16,10 @@ namespace ConsoleApp1
 
 
 
+            if (vvod == 3)
+            {
+                Console.WriteLine(a + b);
+            }
 
 
 
