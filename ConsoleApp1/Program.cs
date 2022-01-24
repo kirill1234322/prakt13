@@ -19,6 +19,10 @@ namespace ConsoleApp1
             {
                 a = int.Parse(Console.ReadLine());
             }
+            if(vvod==4)
+            {
+                Console.WriteLine(a-b);
+            }
 
             if (vvod == 2)
             {
