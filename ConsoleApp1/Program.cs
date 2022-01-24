@@ -20,7 +20,10 @@ namespace ConsoleApp1
                 a = int.Parse(Console.ReadLine());
             }
 
-
+            if (vvod == 2)
+            {
+                b = int.Parse(Console.ReadLine());
+            }
 
 
 
