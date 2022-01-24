@@ -25,7 +25,10 @@ namespace ConsoleApp1
                 b = int.Parse(Console.ReadLine());
             }
 
-
+            if (vvod == 3)
+            {
+                Console.WriteLine(a + b);
+            }
 
             Console.ReadKey();
             
